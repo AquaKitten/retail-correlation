@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Correlation Result</title>
+  </head>
+  <body>
+    <pre>
+{
+  "pair": "Returns-Footfall",
+  "correlation": 0.1776
+}
+    </pre>
+  </body>
+</html>
